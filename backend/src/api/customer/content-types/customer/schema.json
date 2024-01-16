@@ -28,6 +28,14 @@
         "videos",
         "audios"
       ]
+    },
+    "slugs": {
+      "type": "enumeration",
+      "enum": [
+        "dvb",
+        "rfa",
+        "voa"
+      ]
     }
   }
 }
